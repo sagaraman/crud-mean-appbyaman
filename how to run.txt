@@ -1,0 +1,3 @@
+in local
+npm run start:server
+ng s -o
